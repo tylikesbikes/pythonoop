@@ -1,0 +1,5 @@
+bike
+bicycle
+bicicleta
+velo
+velocipede
